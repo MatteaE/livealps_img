@@ -11,5 +11,5 @@ murtel        2024-06-24  s2
 pelmo         2024-06-26  s2
 rocciamelone  2024-06-27  s2
 schilthorn    2024-06-27  s2
-tresignori    2024-06-21  ls
+tresignori    2024-06-24  s2
 valbondione   2024-06-24  s2
