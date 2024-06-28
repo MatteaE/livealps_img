@@ -1,2 +1,15 @@
-bishorn      2024-06-27  s2
-bruennlital  2024-06-27  s2
+bernina       2024-06-24  s2
+bishorn       2024-06-27  s2
+bruennlital   2024-06-27  s2
+granparadiso  2024-06-27  s2
+lagginhorn    2024-06-27  s2
+matterhorn    2024-06-27  s2
+montblanc     2024-06-27  s2
+monterosa     2024-06-27  s2
+monviso       2024-06-27  s2
+murtel        2024-06-24  s2
+pelmo         2024-06-26  s2
+rocciamelone  2024-06-27  s2
+schilthorn    2024-06-27  s2
+tresignori    2024-06-21  ls
+valbondione   2024-06-24  s2
