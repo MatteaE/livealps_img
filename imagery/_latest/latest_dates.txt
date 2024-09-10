@@ -2,12 +2,12 @@ adamello         2024-09-09  s2
 aigtour          2024-09-07  ls
 aletsch          2024-09-08  ls
 altels           2024-09-07  s2
-bernina          2024-09-08  ls
+bernina          2024-09-09  ls
 bishorn          2024-09-07  s2
 bruennlital      2024-09-07  s2
-cengalo          2024-09-08  ls
+cengalo          2024-09-09  ls
 cevedale         2024-09-09  s2
-disgrazia        2024-09-08  ls
+disgrazia        2024-09-09  ls
 fiescher         2024-09-08  ls
 forni            2024-09-09  s2
 grandcombin      2024-09-07  ls
@@ -20,7 +20,7 @@ matterhorn       2024-09-07  s2
 montblanc        2024-09-07  ls
 monterosa        2024-09-08  ls
 monviso          2024-09-07  s2
-murtel           2024-09-08  ls
+murtel           2024-09-09  ls
 otemma           2024-09-07  ls
 pelmo            2024-09-09  s2
 plainemorte      2024-09-07  ls
@@ -30,7 +30,7 @@ rutor            2024-09-07  ls
 saasfee          2024-09-08  ls
 schilthorn       2024-09-07  s2
 simplon          2024-09-08  ls
-tresignori       2024-09-08  ls
+tresignori       2024-09-09  ls
 tsanfleuron      2024-09-07  ls
 unteraar         2024-09-08  ls
-valbondione      2024-09-08  ls
+valbondione      2024-09-09  ls
