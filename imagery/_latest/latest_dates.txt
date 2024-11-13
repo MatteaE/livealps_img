@@ -1,4 +1,4 @@
-adamello         2024-11-12  ls
+adamello         2024-11-13  s2
 aigtour          2024-11-10  ls
 aletsch          2024-11-11  s2
 altels           2024-11-11  s2
@@ -6,10 +6,10 @@ bernina          2024-11-12  ls
 bishorn          2024-11-11  s2
 bruennlital      2024-11-11  s2
 cengalo          2024-11-12  ls
-cevedale         2024-11-12  ls
+cevedale         2024-11-13  s2
 disgrazia        2024-11-12  ls
 fiescher         2024-11-11  s2
-forni            2024-11-12  ls
+forni            2024-11-13  s2
 grandcombin      2024-11-10  ls
 grandesjorasses  2024-11-10  ls
 granparadiso     2024-11-10  ls
@@ -22,7 +22,7 @@ monterosa        2024-11-11  s2
 monviso          2024-11-11  s2
 murtel           2024-11-12  ls
 otemma           2024-11-10  ls
-pelmo            2024-11-08  s2
+pelmo            2024-11-13  s2
 plainemorte      2024-11-10  ls
 rhone            2024-11-11  s2
 rocciamelone     2024-11-10  ls
