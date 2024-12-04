@@ -17,7 +17,7 @@ gries            2024-12-01  s2
 jungfrau         2024-12-01  s2
 lagginhorn       2024-12-01  s2
 matterhorn       2024-12-01  s2
-montblanc        2024-11-29  s2
+montblanc        2024-12-03  ls
 monterosa        2024-12-01  s2
 monviso          2024-12-01  s2
 murtel           2024-12-01  s2
