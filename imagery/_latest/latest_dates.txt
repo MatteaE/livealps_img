@@ -2,12 +2,12 @@ adamello         2025-01-07  s2
 aigtour          2025-01-05  ls
 aletsch          2025-01-06  ls
 altels           2025-01-05  s2
-bernina          2025-01-06  ls
+bernina          2025-01-07  ls
 bishorn          2025-01-05  s2
 bruennlital      2025-01-05  s2
-cengalo          2025-01-06  ls
+cengalo          2025-01-07  ls
 cevedale         2025-01-07  s2
-disgrazia        2025-01-06  ls
+disgrazia        2025-01-07  ls
 fiescher         2025-01-06  ls
 forni            2025-01-07  s2
 grandcombin      2025-01-05  ls
@@ -20,7 +20,7 @@ matterhorn       2025-01-05  s2
 montblanc        2025-01-05  ls
 monterosa        2025-01-06  ls
 monviso          2025-01-05  s2
-murtel           2025-01-06  ls
+murtel           2025-01-07  ls
 otemma           2025-01-05  ls
 pelmo            2025-01-07  s2
 plainemorte      2025-01-05  ls
@@ -30,7 +30,7 @@ rutor            2025-01-05  ls
 saasfee          2025-01-06  ls
 schilthorn       2025-01-05  s2
 simplon          2025-01-06  ls
-tresignori       2025-01-06  ls
+tresignori       2025-01-07  ls
 tsanfleuron      2025-01-05  ls
 unteraar         2025-01-06  ls
-valbondione      2025-01-06  ls
+valbondione      2025-01-07  ls
