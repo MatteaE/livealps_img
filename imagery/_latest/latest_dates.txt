@@ -1,4 +1,4 @@
-adamello         2025-01-31  ls
+adamello         2025-02-01  s2
 aigtour          2025-01-29  ls
 aletsch          2025-01-30  s2
 altels           2025-01-30  s2
@@ -6,10 +6,10 @@ bernina          2025-01-31  ls
 bishorn          2025-01-30  s2
 bruennlital      2025-01-30  s2
 cengalo          2025-01-31  ls
-cevedale         2025-01-31  ls
+cevedale         2025-02-01  s2
 disgrazia        2025-01-31  ls
 fiescher         2025-01-30  s2
-forni            2025-01-31  ls
+forni            2025-02-01  s2
 grandcombin      2025-01-29  ls
 grandesjorasses  2025-01-29  ls
 granparadiso     2025-01-29  ls
