@@ -18,7 +18,7 @@ jungfrau         2025-02-02  s2
 lagginhorn       2025-02-02  s2
 matterhorn       2025-01-30  s2
 montblanc        2025-01-29  ls
-monterosa        2025-01-30  s2
+monterosa        2025-02-02  s2
 monviso          2025-02-02  s2
 murtel           2025-01-31  ls
 otemma           2025-01-29  ls
