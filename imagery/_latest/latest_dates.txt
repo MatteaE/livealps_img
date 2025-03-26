@@ -17,7 +17,7 @@ gries            2025-03-24  s2
 jungfrau         2025-03-24  s2
 lagginhorn       2025-03-24  s2
 matterhorn       2025-03-24  s2
-montblanc        2025-03-24  s2
+montblanc        2025-03-25  ls
 monterosa        2025-03-24  s2
 monviso          2025-03-24  s2
 murtel           2025-03-21  s2
