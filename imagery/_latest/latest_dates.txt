@@ -22,7 +22,7 @@ monterosa        2025-05-06  ls
 monviso          2025-05-05  s2
 murtel           2025-05-06  ls
 otemma           2025-05-05  ls
-pelmo            2025-05-04  s2
+pelmo            2025-05-07  s2
 plainemorte      2025-05-05  ls
 rhone            2025-05-06  ls
 rocciamelone     2025-05-05  ls
