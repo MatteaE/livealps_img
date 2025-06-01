@@ -1,4 +1,4 @@
-adamello         2025-05-31  ls
+adamello         2025-06-01  s2
 aigtour          2025-05-30  s2
 aletsch          2025-05-30  s2
 altels           2025-05-30  s2
@@ -7,10 +7,10 @@ bishorn          2025-05-30  s2
 blatten          2025-05-30  s2
 bruennlital      2025-05-30  s2
 cengalo          2025-05-31  ls
-cevedale         2025-05-31  ls
+cevedale         2025-06-01  s2
 disgrazia        2025-05-31  ls
 fiescher         2025-05-30  s2
-forni            2025-05-31  ls
+forni            2025-06-01  s2
 grandcombin      2025-05-30  s2
 grandesjorasses  2025-05-30  s2
 granparadiso     2025-05-30  s2
@@ -23,7 +23,7 @@ monterosa        2025-05-30  s2
 monviso          2025-05-30  s2
 murtel           2025-05-31  ls
 otemma           2025-05-30  s2
-pelmo            2025-05-27  s2
+pelmo            2025-06-01  s2
 plainemorte      2025-05-30  s2
 rhone            2025-05-30  s2
 rocciamelone     2025-05-30  s2
