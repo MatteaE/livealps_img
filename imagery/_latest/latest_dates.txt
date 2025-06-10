@@ -33,7 +33,7 @@ montblanc        2025-06-09  s2
 monterosa        2025-06-09  s2
 monviso          2025-06-09  s2
 murtel           2025-06-09  s2
-pelmo            2025-06-06  s2
+pelmo            2025-06-09  ls
 plainemorte      2025-06-09  s2
 reeti            2025-06-09  s2
 rhone            2025-06-09  s2
