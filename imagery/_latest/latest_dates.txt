@@ -29,6 +29,7 @@ gsb              2025-06-17  s2
 jungfrau         2025-06-17  s2
 kanderfirn       2025-06-17  s2
 lagginhorn       2025-06-17  s2
+lauterbrunnen    2025-06-17  s2
 legnone          2025-06-16  s2
 loetschental     2025-06-17  s2
 matterhorn       2025-06-17  s2
