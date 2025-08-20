@@ -1,4 +1,4 @@
-adamello         2025-08-19  ls
+adamello         2025-08-20  s2
 aigrouges        2025-08-18  s2
 aigtour          2025-08-18  s2
 albristhore      2025-08-18  s2
@@ -11,12 +11,12 @@ bernina          2025-08-19  ls
 bishorn          2025-08-18  s2
 bruennlital      2025-08-18  s2
 cengalo          2025-08-19  ls
-cevedale         2025-08-19  ls
+cevedale         2025-08-20  s2
 cinquelaghi      2025-08-19  ls
 disgrazia        2025-08-19  ls
 fiescher         2025-08-18  s2
 fiz              2025-08-18  s2
-forni            2025-08-19  ls
+forni            2025-08-20  s2
 grandcombin      2025-08-18  s2
 grandesjorasses  2025-08-18  s2
 grandmuveran     2025-08-18  s2
