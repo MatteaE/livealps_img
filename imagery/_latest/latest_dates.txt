@@ -37,7 +37,7 @@ montblanc        2025-09-02  ls
 monterosa        2025-09-03  ls
 monviso          2025-09-02  s2
 murtel           2025-09-04  ls
-pelmo            2025-09-01  s2
+pelmo            2025-09-05  ls
 plainemorte      2025-09-02  ls
 reeti            2025-09-02  s2
 rhone            2025-09-03  ls
@@ -47,7 +47,7 @@ saasfee          2025-09-03  ls
 salanfe          2025-09-02  ls
 schilthorn       2025-09-02  s2
 simplon          2025-09-03  ls
-trecime          2025-09-01  s2
+trecime          2025-09-05  ls
 tresignori       2025-09-04  ls
 tsanfleuron      2025-09-02  ls
 unteraar         2025-09-03  ls
