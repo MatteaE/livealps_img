@@ -1,4 +1,4 @@
-adamello         2025-11-18  s2
+adamello         2025-11-20  s2
 aigrouges        2025-11-19  s2
 aigtour          2025-11-19  s2
 albristhore      2025-11-19  s2
@@ -11,12 +11,12 @@ bernina          2025-11-16  s2
 bishorn          2025-11-19  s2
 bruennlital      2025-11-19  s2
 cengalo          2025-11-16  s2
-cevedale         2025-11-18  s2
+cevedale         2025-11-20  s2
 cinquelaghi      2025-11-16  s2
 disgrazia        2025-11-16  s2
 fiescher         2025-11-19  s2
 fiz              2025-11-19  s2
-forni            2025-11-18  s2
+forni            2025-11-20  s2
 grandcombin      2025-11-19  s2
 grandesjorasses  2025-11-19  s2
 grandmuveran     2025-11-19  s2
@@ -37,7 +37,7 @@ montblanc        2025-11-19  s2
 monterosa        2025-11-19  s2
 monviso          2025-11-19  s2
 murtel           2025-11-16  s2
-pelmo            2025-11-18  s2
+pelmo            2025-11-20  s2
 plainemorte      2025-11-19  s2
 reeti            2025-11-19  s2
 rhone            2025-11-19  s2
@@ -47,7 +47,7 @@ saasfee          2025-11-19  s2
 salanfe          2025-11-19  s2
 schilthorn       2025-11-19  s2
 simplon          2025-11-19  s2
-trecime          2025-11-18  s2
+trecime          2025-11-20  s2
 tresignori       2025-11-16  s2
 tsanfleuron      2025-11-19  s2
 unteraar         2025-11-19  s2
