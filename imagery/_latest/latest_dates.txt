@@ -1,5 +1,5 @@
 adamello         2025-12-30  s2
-aigrouges        2025-12-29  s2
+aigrouges        2025-12-30  ls
 aigtour          2025-12-29  s2
 albristhore      2025-12-29  s2
 aletsch          2025-12-29  s2
@@ -15,7 +15,7 @@ cevedale         2025-12-30  s2
 cinquelaghi      2025-12-26  s2
 disgrazia        2025-12-26  s2
 fiescher         2025-12-29  s2
-fiz              2025-12-29  s2
+fiz              2025-12-30  ls
 forni            2025-12-30  s2
 grandcombin      2025-12-29  s2
 grandesjorasses  2025-12-29  s2
@@ -33,7 +33,7 @@ lauterbrunnen    2025-12-29  s2
 legnone          2025-12-26  s2
 loetschental     2025-12-29  s2
 matterhorn       2025-12-29  s2
-montblanc        2025-12-29  s2
+montblanc        2025-12-30  ls
 monterosa        2025-12-29  s2
 monviso          2025-12-29  s2
 murtel           2025-12-26  s2
@@ -44,7 +44,7 @@ rhone            2025-12-29  s2
 rocciamelone     2025-12-29  s2
 rutor            2025-12-29  s2
 saasfee          2025-12-29  s2
-salanfe          2025-12-29  s2
+salanfe          2025-12-30  ls
 schilthorn       2025-12-29  s2
 simplon          2025-12-29  s2
 trecime          2025-12-30  s2
