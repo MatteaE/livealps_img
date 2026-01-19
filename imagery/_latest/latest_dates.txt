@@ -37,7 +37,7 @@ montblanc        2026-01-18  s2
 monterosa        2026-01-18  s2
 monviso          2026-01-18  s2
 murtel           2026-01-18  ls
-pelmo            2026-01-17  s2
+pelmo            2026-01-19  ls
 plainemorte      2026-01-18  s2
 reeti            2026-01-18  s2
 rhone            2026-01-18  s2
@@ -47,7 +47,7 @@ saasfee          2026-01-18  s2
 salanfe          2026-01-18  s2
 schilthorn       2026-01-18  s2
 simplon          2026-01-18  s2
-trecime          2026-01-17  s2
+trecime          2026-01-19  ls
 tresignori       2026-01-18  ls
 tsanfleuron      2026-01-18  s2
 unteraar         2026-01-18  s2
