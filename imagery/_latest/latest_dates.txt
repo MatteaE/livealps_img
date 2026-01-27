@@ -1,4 +1,4 @@
-adamello         2026-01-26  ls
+adamello         2026-01-27  s2
 aigrouges        2026-01-24  ls
 aigtour          2026-01-24  ls
 albristhore      2026-01-24  ls
@@ -11,12 +11,12 @@ bernina          2026-01-26  ls
 bishorn          2026-01-25  s2
 bruennlital      2026-01-25  s2
 cengalo          2026-01-26  ls
-cevedale         2026-01-26  ls
+cevedale         2026-01-27  s2
 cinquelaghi      2026-01-26  ls
 disgrazia        2026-01-26  ls
 fiescher         2026-01-25  s2
 fiz              2026-01-24  ls
-forni            2026-01-26  ls
+forni            2026-01-27  s2
 grandcombin      2026-01-24  ls
 grandesjorasses  2026-01-24  ls
 grandmuveran     2026-01-24  ls
@@ -37,7 +37,7 @@ montblanc        2026-01-24  ls
 monterosa        2026-01-25  s2
 monviso          2026-01-25  s2
 murtel           2026-01-26  ls
-pelmo            2026-01-22  s2
+pelmo            2026-01-27  s2
 plainemorte      2026-01-24  ls
 reeti            2026-01-25  s2
 rhone            2026-01-25  s2
@@ -47,7 +47,7 @@ saasfee          2026-01-25  s2
 salanfe          2026-01-24  ls
 schilthorn       2026-01-25  s2
 simplon          2026-01-25  s2
-trecime          2026-01-22  s2
+trecime          2026-01-27  s2
 tresignori       2026-01-26  ls
 tsanfleuron      2026-01-24  ls
 unteraar         2026-01-25  s2
