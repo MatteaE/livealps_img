@@ -1,6 +1,6 @@
 adamello         2026-03-07  ls
-aigrouges        2026-03-05  ls
-aigtour          2026-03-05  ls
+aigrouges        2026-03-12  ls
+aigtour          2026-03-12  ls
 albristhore      2026-03-05  ls
 aletsch          2026-03-06  ls
 allalin          2026-03-06  ls
@@ -15,7 +15,7 @@ cevedale         2026-03-07  ls
 cinquelaghi      2026-03-07  ls
 disgrazia        2026-03-07  ls
 fiescher         2026-03-06  ls
-fiz              2026-03-05  ls
+fiz              2026-03-12  ls
 forni            2026-03-07  ls
 grandcombin      2026-03-05  ls
 grandesjorasses  2026-03-05  ls
@@ -33,8 +33,8 @@ lauterbrunnen    2026-03-06  ls
 legnone          2026-03-07  ls
 loetschental     2026-03-05  ls
 matterhorn       2026-03-05  ls
-montblanc        2026-03-05  ls
-monterosa        2026-03-06  ls
+montblanc        2026-03-12  ls
+monterosa        2026-03-11  s2
 monviso          2026-03-05  ls
 murtel           2026-03-07  ls
 pelmo            2026-03-08  ls
@@ -44,7 +44,7 @@ rhone            2026-03-06  ls
 rocciamelone     2026-03-05  ls
 rutor            2026-03-05  ls
 saasfee          2026-03-06  ls
-salanfe          2026-03-05  ls
+salanfe          2026-03-12  ls
 schilthorn       2026-03-05  ls
 simplon          2026-03-06  ls
 trecime          2026-03-08  ls
