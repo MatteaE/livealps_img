@@ -1,4 +1,4 @@
-adamello         2026-03-30  s2
+adamello         2026-03-31  s2
 aigrouges        2026-03-29  s2
 aigtour          2026-03-29  s2
 albristhore      2026-03-29  s2
@@ -11,12 +11,12 @@ bernina          2026-03-26  s2
 bishorn          2026-03-29  s2
 bruennlital      2026-03-29  s2
 cengalo          2026-03-26  s2
-cevedale         2026-03-30  s2
+cevedale         2026-03-31  s2
 cinquelaghi      2026-03-26  s2
 disgrazia        2026-03-26  s2
 fiescher         2026-03-31  s2
 fiz              2026-03-29  s2
-forni            2026-03-30  s2
+forni            2026-03-31  s2
 grandcombin      2026-03-29  s2
 grandesjorasses  2026-03-29  s2
 grandmuveran     2026-03-29  s2
