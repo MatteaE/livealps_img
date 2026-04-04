@@ -34,10 +34,10 @@ legnone          2026-04-02  s2
 loetschental     2026-03-31  s2
 matterhorn       2026-04-02  s2
 montblanc        2026-03-29  s2
-monterosa        2026-03-31  s2
+monterosa        2026-04-03  s2
 monviso          2026-04-03  s2
 murtel           2026-04-02  s2
-pelmo            2026-03-30  s2
+pelmo            2026-04-02  s2
 plainemorte      2026-04-03  s2
 reeti            2026-03-31  s2
 rhone            2026-03-31  s2
@@ -47,7 +47,7 @@ saasfee          2026-03-31  s2
 salanfe          2026-04-03  s2
 schilthorn       2026-03-31  s2
 simplon          2026-03-31  s2
-trecime          2026-03-30  s2
+trecime          2026-04-02  s2
 tresignori       2026-04-02  s2
 tsanfleuron      2026-04-03  s2
 unteraar         2026-03-31  s2
