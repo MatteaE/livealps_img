@@ -5,11 +5,11 @@ albristhore      2026-11-16  ls
 aletsch          2026-11-18  s2
 allalin          2026-11-18  s2
 altabrembana     2026-11-18  s2
-altels           2026-11-16  s2
+altels           2026-11-18  s2
 arolla           2026-11-16  ls
 bernina          2026-11-18  s2
-bishorn          2026-11-16  s2
-bruennlital      2026-11-16  s2
+bishorn          2026-11-18  s2
+bruennlital      2026-11-18  s2
 cengalo          2026-11-18  s2
 cevedale         2026-11-18  s2
 cinquelaghi      2026-11-18  s2
